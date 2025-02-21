@@ -1,5 +1,5 @@
 ## Data Encryption Utility
-The utility is a simple encryption and decryption tool that reads data from an input file, encrypts it using a given encryption key, and writes the encrypted data to an output file. Similarly, it can also read encrypted data from an input file, decrypt it using the same encryption key, and write the decrypted data to a decrypted file
+The utility is a simple command-line encryption and decryption tool that reads data from an input file, encrypts it using a given encryption key, and writes the encrypted data to an output file. Similarly, it can also read encrypted data from an input file, decrypt it using the same encryption key, and write the decrypted data to a decrypted file
 <br /><br />
 -> Command-Line Options:
 	Format:
